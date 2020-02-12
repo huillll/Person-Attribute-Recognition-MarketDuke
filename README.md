@@ -158,3 +158,4 @@ color of lower-body clothing: blue
 
 test:
 Python 3.7.4 torch '1.4.0' torchvision '0.5.0'
+ModuleNotFoundError: No module named 'torch.utils.model_zoo' 替换上面的环境
