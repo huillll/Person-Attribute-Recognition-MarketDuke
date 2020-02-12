@@ -155,3 +155,6 @@ color of lower-body clothing: blue
 ## Reference
 
 *[1] Lin Y, Zheng L, Zheng Z, et al. Improving person re-identification by attribute and identity learning[J]. Pattern Recognition, 2019.*
+
+test:
+Python 3.7.4 torch '1.4.0' torchvision '0.5.0'
